@@ -2,6 +2,6 @@
 ##hola
 ### como estan??
 R test repo
-*gordo
-*asd
-*asd
+* gordo
+* asd
+* asd
