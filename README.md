@@ -5,4 +5,3 @@ R test repo
 *gordo
 *asd
 *asd
-**sss
